@@ -26,3 +26,5 @@ jobs:
       
     - name: gradle init
       run: gradle init --stacktrace
+
+    - name: gradle test
